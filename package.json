@@ -1,0 +1,25 @@
+{
+  "name": "signal-fire-relay-mqtt",
+  "version": "0.1.0",
+  "author": "Michiel van der Velde <michiel@michielvdvelde.nl>",
+  "homepage": "https://github.com/MichielvdVelde/signal-fire-relay-mqtt",
+  "license": "MIT",
+  "keywords": [
+    "webrtc",
+    "peerchannel",
+    "datachannel",
+    "signal-fire",
+    "relay",
+    "pubsub"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichielvdVelde/signal-fire-relay-mqtt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MichielvdVelde/signal-fire-relay-mqtt/issues"
+  },
+  "dependencies": {
+    "mqtt": "^2.1.1"
+  }
+}
