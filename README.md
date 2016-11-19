@@ -37,6 +37,8 @@ That's all!
 
 #### Changelog
 
+* v0.2.1
+  * Fix package naming mixup
 * v0.2.0
   * The `error` event on the MQTT connection is now re-emitted
   * Renamed `.relay()` to `.send()` (**breaking change**, only compatible with signal-fire 0.3.0 or higher!)
